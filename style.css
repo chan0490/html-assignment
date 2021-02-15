@@ -6,7 +6,7 @@ header, footer {background-color: cornflowerblue;}
 .site-title {color:rgb(112, 25, 68)}
 #my-image {box-shadow: 0px 0px 2px 1px black;}
 ul.a {list-style-type: square;}
-ul.a > odd {background-color: cornflowerblue;}
+ul.a >:nth-child(odd) {background-color: cornflowerblue;}
 nav > a {
     background-color:cadetblue;
     border:rgb(112, 25, 68);
