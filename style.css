@@ -14,5 +14,5 @@ nav > a {
  }
 a:link {color:salmon;}
 a:visited {color:salmon;}
-a:hover {color:steelblue;}
-a:active {color:turquoise;}
+a:hover {background-color:steelblue;}
+a:active {background-color:turquoise;}
